@@ -1,0 +1,13 @@
+executable = run.sh
+arguments = $(VARIABLE1)
+log = job_$(Cluster)_$(Process).log
+output = job_$(Cluster)_$(Process).out
+error = job_$(Cluster)_$(Process).err
+request_memory = 1GB
+#+JobFlavour = "espresso"
++MaxRuntime = 90000
+#+MaxRuntime = 400
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+# Queue jobs with different arguments
+queue arguments from argument.txt

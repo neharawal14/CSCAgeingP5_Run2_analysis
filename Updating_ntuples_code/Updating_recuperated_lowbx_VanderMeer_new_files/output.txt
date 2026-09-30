@@ -1,0 +1,346 @@
+./executable year chamber
+./executable	2016	ME11a	 the year 2016
+ chamber ME11a
+ entered in intiialisation 
+ entries in tree 12211241
+Parsed Run Ranges:
+Start: 273718, End: 273730
+Start: 278873, End: 278887
+Start: 274232, End: 274245
+Start: 274246, End: 274251
+Start: 274195, End: 274202
+Start: 274152, End: 274161
+Start: 273427, End: 273450
+Start: 281636, End: 281641
+Start: 275653, End: 275659
+Start: 273502, End: 273505
+Start: 273140, End: 273164
+Start: 274280, End: 274286
+Start: 273278, End: 273302
+Start: 274947, End: 274960
+Start: 277979, End: 277992
+Start: 273554, End: 273556
+Start: 273481, End: 273495
+Start: 273414, End: 273426
+Start: 273401, End: 273412
+Start: 282388, End: 282412
+Start: 282652, End: 282663
+Start: 281605, End: 281613
+Start: 274093, End: 274094
+Start: 281614, End: 281616
+Start: 279474, End: 279489
+Start: 283167, End: 283171
+Start: 274167, End: 274192
+Start: 274139, End: 274147
+Start: 282635, End: 282650
+Start: 281597, End: 281604
+Start: 273574, End: 273593
+Start: 283360, End: 283387
+Start: 277928, End: 277935
+Start: 273514, End: 273537
+Start: 274096, End: 274108
+Start: 278748, End: 278762
+Start: 279428, End: 279473
+ run 273158 size of accepted instlumi 3124 size of rejected 19
+ run 273302 size of accepted instlumi 1059 size of rejected 1
+ run 273402 size of accepted instlumi 419 size of rejected 18
+ run 273403 size of accepted instlumi 135 size of rejected 0
+ run 273404 size of accepted instlumi 29 size of rejected 0
+ run 273405 size of accepted instlumi 50 size of rejected 0
+ run 273406 size of accepted instlumi 240 size of rejected 13
+ run 273408 size of accepted instlumi 10 size of rejected 0
+ run 273409 size of accepted instlumi 579 size of rejected 0
+ run 273410 size of accepted instlumi 185 size of rejected 0
+ run 273411 size of accepted instlumi 25 size of rejected 17
+ run 273425 size of accepted instlumi 1737 size of rejected 54
+ run 273446 size of accepted instlumi 113 size of rejected 20
+ run 273447 size of accepted instlumi 1603 size of rejected 26
+ run 273448 size of accepted instlumi 1488 size of rejected 30
+ run 273449 size of accepted instlumi 715 size of rejected 42
+ run 273450 size of accepted instlumi 2015 size of rejected 105
+ run 273492 size of accepted instlumi 810 size of rejected 34
+ run 273493 size of accepted instlumi 693 size of rejected 6
+ run 273494 size of accepted instlumi 569 size of rejected 13
+ run 273502 size of accepted instlumi 3093 size of rejected 83
+ run 273503 size of accepted instlumi 1713 size of rejected 35
+ run 273554 size of accepted instlumi 1803 size of rejected 17
+ run 273555 size of accepted instlumi 742 size of rejected 0
+ run 273725 size of accepted instlumi 9815 size of rejected 409
+ run 273728 size of accepted instlumi 324 size of rejected 0
+ run 273730 size of accepted instlumi 5837 size of rejected 122
+ run 274094 size of accepted instlumi 576 size of rejected 32
+ run 274146 size of accepted instlumi 304 size of rejected 0
+ run 274159 size of accepted instlumi 226 size of rejected 0
+ run 274160 size of accepted instlumi 1134 size of rejected 0
+ run 274161 size of accepted instlumi 2802 size of rejected 29
+ run 274172 size of accepted instlumi 266 size of rejected 149
+ run 274198 size of accepted instlumi 661 size of rejected 75
+ run 274199 size of accepted instlumi 3914 size of rejected 178
+ run 274200 size of accepted instlumi 3958 size of rejected 153
+ run 274240 size of accepted instlumi 543 size of rejected 77
+ run 274241 size of accepted instlumi 7995 size of rejected 187
+ run 274244 size of accepted instlumi 3707 size of rejected 84
+ run 274250 size of accepted instlumi 5531 size of rejected 144
+ run 274251 size of accepted instlumi 3818 size of rejected 134
+ run 274283 size of accepted instlumi 15 size of rejected 0
+ run 274284 size of accepted instlumi 1564 size of rejected 101
+ run 274286 size of accepted instlumi 1220 size of rejected 53
+ run 274314 size of accepted instlumi 533 size of rejected 0
+ run 274315 size of accepted instlumi 3813 size of rejected 139
+ run 274316 size of accepted instlumi 8102 size of rejected 86
+ run 274317 size of accepted instlumi 13 size of rejected 0
+ run 274319 size of accepted instlumi 1848 size of rejected 0
+ run 274335 size of accepted instlumi 8151 size of rejected 268
+ run 274336 size of accepted instlumi 111 size of rejected 0
+ run 274337 size of accepted instlumi 96 size of rejected 0
+ run 274338 size of accepted instlumi 5453 size of rejected 100
+ run 274339 size of accepted instlumi 575 size of rejected 18
+ run 274344 size of accepted instlumi 4484 size of rejected 22
+ run 274345 size of accepted instlumi 1163 size of rejected 0
+ run 274382 size of accepted instlumi 295 size of rejected 141
+ run 274387 size of accepted instlumi 3025 size of rejected 205
+ run 274388 size of accepted instlumi 15114 size of rejected 235
+ run 274420 size of accepted instlumi 1515 size of rejected 102
+ run 274421 size of accepted instlumi 2944 size of rejected 50
+ run 274422 size of accepted instlumi 16796 size of rejected 395
+ run 274440 size of accepted instlumi 3519 size of rejected 162
+ run 274441 size of accepted instlumi 3869 size of rejected 32
+ run 274442 size of accepted instlumi 5912 size of rejected 168
+ run 276544 size of accepted instlumi 1303 size of rejected 51
+ run 276545 size of accepted instlumi 1543 size of rejected 76
+ run 276581 size of accepted instlumi 3491 size of rejected 234
+ run 276582 size of accepted instlumi 8318 size of rejected 185
+ run 276583 size of accepted instlumi 466 size of rejected 0
+ run 276584 size of accepted instlumi 13 size of rejected 0
+ run 276585 size of accepted instlumi 2132 size of rejected 30
+ run 276586 size of accepted instlumi 5955 size of rejected 144
+ run 276587 size of accepted instlumi 7063 size of rejected 74
+ run 276653 size of accepted instlumi 4451 size of rejected 195
+ run 276655 size of accepted instlumi 9452 size of rejected 153
+ run 276659 size of accepted instlumi 1894 size of rejected 73
+ run 276775 size of accepted instlumi 10828 size of rejected 234
+ run 276776 size of accepted instlumi 14630 size of rejected 243
+ run 276794 size of accepted instlumi 5854 size of rejected 92
+ run 276807 size of accepted instlumi 1371 size of rejected 165
+ run 276808 size of accepted instlumi 8528 size of rejected 106
+ run 276810 size of accepted instlumi 2589 size of rejected 8
+ run 276811 size of accepted instlumi 19269 size of rejected 264
+ run 276831 size of accepted instlumi 23248 size of rejected 459
+ run 276834 size of accepted instlumi 4889 size of rejected 90
+ run 276870 size of accepted instlumi 29551 size of rejected 646
+ run 276935 size of accepted instlumi 7982 size of rejected 220
+ run 276940 size of accepted instlumi 1120 size of rejected 177
+ run 276946 size of accepted instlumi 207 size of rejected 0
+ run 276947 size of accepted instlumi 1153 size of rejected 0
+ run 276948 size of accepted instlumi 4401 size of rejected 43
+ run 276950 size of accepted instlumi 19698 size of rejected 323
+ run 277069 size of accepted instlumi 2873 size of rejected 198
+ run 277070 size of accepted instlumi 10247 size of rejected 163
+ run 277071 size of accepted instlumi 1513 size of rejected 32
+ run 277072 size of accepted instlumi 4043 size of rejected 127
+ run 277073 size of accepted instlumi 791 size of rejected 0
+ run 277076 size of accepted instlumi 8044 size of rejected 119
+ run 277087 size of accepted instlumi 5928 size of rejected 105
+ run 277094 size of accepted instlumi 5792 size of rejected 185
+ run 277096 size of accepted instlumi 18157 size of rejected 415
+ run 277112 size of accepted instlumi 1044 size of rejected 65
+ run 277126 size of accepted instlumi 74 size of rejected 6
+ run 277127 size of accepted instlumi 8690 size of rejected 220
+ run 277148 size of accepted instlumi 5914 size of rejected 172
+ run 277166 size of accepted instlumi 3323 size of rejected 155
+ run 277168 size of accepted instlumi 19148 size of rejected 314
+ run 277180 size of accepted instlumi 1272 size of rejected 76
+ run 277194 size of accepted instlumi 18341 size of rejected 191
+ run 277305 size of accepted instlumi 6227 size of rejected 385
+ run 277420 size of accepted instlumi 2478 size of rejected 148
+ run 277981 size of accepted instlumi 233 size of rejected 20
+ run 277991 size of accepted instlumi 271 size of rejected 0
+ run 277992 size of accepted instlumi 959 size of rejected 0
+ run 278017 size of accepted instlumi 4495 size of rejected 215
+ run 278018 size of accepted instlumi 10555 size of rejected 227
+ run 278167 size of accepted instlumi 18920 size of rejected 328
+ run 278175 size of accepted instlumi 539 size of rejected 49
+ run 278193 size of accepted instlumi 1456 size of rejected 95
+ run 278239 size of accepted instlumi 6485 size of rejected 158
+ run 278240 size of accepted instlumi 11717 size of rejected 100
+ run 278273 size of accepted instlumi 192 size of rejected 101
+ run 278274 size of accepted instlumi 803 size of rejected 0
+ run 278288 size of accepted instlumi 123 size of rejected 11
+ run 278289 size of accepted instlumi 335 size of rejected 70
+ run 278290 size of accepted instlumi 120 size of rejected 0
+ run 278308 size of accepted instlumi 16444 size of rejected 429
+ run 278310 size of accepted instlumi 5417 size of rejected 152
+ run 278315 size of accepted instlumi 6647 size of rejected 159
+ run 278345 size of accepted instlumi 7066 size of rejected 249
+ run 278346 size of accepted instlumi 1107 size of rejected 0
+ run 278349 size of accepted instlumi 5663 size of rejected 91
+ run 278366 size of accepted instlumi 3749 size of rejected 83
+ run 278406 size of accepted instlumi 15539 size of rejected 415
+ run 278509 size of accepted instlumi 14003 size of rejected 350
+ run 278769 size of accepted instlumi 396 size of rejected 45
+ run 278770 size of accepted instlumi 7574 size of rejected 323
+ run 278801 size of accepted instlumi 426 size of rejected 0
+ run 278802 size of accepted instlumi 20 size of rejected 73
+ run 278803 size of accepted instlumi 3901 size of rejected 236
+ run 278804 size of accepted instlumi 47 size of rejected 0
+ run 278805 size of accepted instlumi 3086 size of rejected 178
+ run 278808 size of accepted instlumi 17132 size of rejected 485
+ run 278820 size of accepted instlumi 14415 size of rejected 437
+ run 278822 size of accepted instlumi 8923 size of rejected 152
+ run 278873 size of accepted instlumi 45 size of rejected 60
+ run 278874 size of accepted instlumi 4600 size of rejected 87
+ run 278875 size of accepted instlumi 7013 size of rejected 176
+ run 278923 size of accepted instlumi 5183 size of rejected 203
+ run 278957 size of accepted instlumi 1870 size of rejected 189
+ run 278962 size of accepted instlumi 4059 size of rejected 188
+ run 278963 size of accepted instlumi 2079 size of rejected 46
+ run 278969 size of accepted instlumi 14953 size of rejected 459
+ run 278975 size of accepted instlumi 5783 size of rejected 99
+ run 278976 size of accepted instlumi 178 size of rejected 0
+ run 278986 size of accepted instlumi 1297 size of rejected 139
+ run 279024 size of accepted instlumi 2058 size of rejected 0
+ run 279029 size of accepted instlumi 1723 size of rejected 0
+ run 279071 size of accepted instlumi 1200 size of rejected 48
+ run 279080 size of accepted instlumi 548 size of rejected 99
+ run 279115 size of accepted instlumi 4876 size of rejected 221
+ run 279116 size of accepted instlumi 5585 size of rejected 74
+ run 279479 size of accepted instlumi 270 size of rejected 38
+ run 279588 size of accepted instlumi 13200 size of rejected 381
+ run 279653 size of accepted instlumi 2292 size of rejected 176
+ run 279654 size of accepted instlumi 12562 size of rejected 146
+ run 279656 size of accepted instlumi 299 size of rejected 0
+ run 279658 size of accepted instlumi 5130 size of rejected 127
+ run 279667 size of accepted instlumi 11343 size of rejected 333
+ run 279681 size of accepted instlumi 356 size of rejected 16
+ run 279682 size of accepted instlumi 419 size of rejected 17
+ run 279683 size of accepted instlumi 367 size of rejected 0
+ run 279684 size of accepted instlumi 293 size of rejected 0
+ run 279685 size of accepted instlumi 2718 size of rejected 74
+ run 279691 size of accepted instlumi 356 size of rejected 161
+ run 279694 size of accepted instlumi 22006 size of rejected 431
+ run 279715 size of accepted instlumi 4596 size of rejected 314
+ run 279716 size of accepted instlumi 13981 size of rejected 206
+ run 279760 size of accepted instlumi 4395 size of rejected 130
+ run 279766 size of accepted instlumi 16127 size of rejected 238
+ run 279767 size of accepted instlumi 5893 size of rejected 81
+ run 279794 size of accepted instlumi 12538 size of rejected 307
+ run 279823 size of accepted instlumi 3931 size of rejected 248
+ run 279841 size of accepted instlumi 19237 size of rejected 548
+ run 279844 size of accepted instlumi 2294 size of rejected 204
+ run 279887 size of accepted instlumi 3736 size of rejected 174
+ run 279931 size of accepted instlumi 28067 size of rejected 622
+ run 279966 size of accepted instlumi 4608 size of rejected 200
+ run 279975 size of accepted instlumi 12990 size of rejected 359
+ run 279993 size of accepted instlumi 798 size of rejected 194
+ run 279994 size of accepted instlumi 562 size of rejected 83
+ run 280013 size of accepted instlumi 279 size of rejected 40
+ run 280015 size of accepted instlumi 6484 size of rejected 110
+ run 280016 size of accepted instlumi 1449 size of rejected 0
+ run 280017 size of accepted instlumi 5052 size of rejected 108
+ run 280018 size of accepted instlumi 9623 size of rejected 131
+ run 280020 size of accepted instlumi 312 size of rejected 0
+ run 280024 size of accepted instlumi 2456 size of rejected 65
+ run 280187 size of accepted instlumi 584 size of rejected 164
+ run 280188 size of accepted instlumi 3548 size of rejected 0
+ run 280191 size of accepted instlumi 11073 size of rejected 128
+ run 280194 size of accepted instlumi 2293 size of rejected 50
+ run 280242 size of accepted instlumi 8498 size of rejected 271
+ run 280249 size of accepted instlumi 15124 size of rejected 182
+ run 280251 size of accepted instlumi 3091 size of rejected 46
+ run 280327 size of accepted instlumi 487 size of rejected 39
+ run 280330 size of accepted instlumi 7328 size of rejected 164
+ run 280349 size of accepted instlumi 3517 size of rejected 15
+ run 280363 size of accepted instlumi 2844 size of rejected 87
+ run 280364 size of accepted instlumi 8831 size of rejected 141
+ run 280383 size of accepted instlumi 17 size of rejected 0
+ run 280384 size of accepted instlumi 405 size of rejected 37
+ run 280385 size of accepted instlumi 21988 size of rejected 492
+ run 281613 size of accepted instlumi 649 size of rejected 4
+ run 281639 size of accepted instlumi 925 size of rejected 98
+ run 281641 size of accepted instlumi 2230 size of rejected 132
+ run 281693 size of accepted instlumi 23819 size of rejected 449
+ run 281707 size of accepted instlumi 12519 size of rejected 461
+ run 281726 size of accepted instlumi 3180 size of rejected 0
+ run 281727 size of accepted instlumi 13687 size of rejected 259
+ run 281797 size of accepted instlumi 24424 size of rejected 608
+ run 281975 size of accepted instlumi 2844 size of rejected 288
+ run 281976 size of accepted instlumi 22056 size of rejected 335
+ run 282033 size of accepted instlumi 352 size of rejected 94
+ run 282034 size of accepted instlumi 487 size of rejected 0
+ run 282035 size of accepted instlumi 565 size of rejected 0
+ run 282037 size of accepted instlumi 20829 size of rejected 415
+ run 282092 size of accepted instlumi 18826 size of rejected 462
+ run 282708 size of accepted instlumi 138 size of rejected 0
+ run 282710 size of accepted instlumi 19 size of rejected 0
+ run 282712 size of accepted instlumi 942 size of rejected 0
+ run 282730 size of accepted instlumi 970 size of rejected 140
+ run 282731 size of accepted instlumi 2545 size of rejected 96
+ run 282732 size of accepted instlumi 1106 size of rejected 0
+ run 282733 size of accepted instlumi 2585 size of rejected 66
+ run 282734 size of accepted instlumi 4514 size of rejected 0
+ run 282735 size of accepted instlumi 18118 size of rejected 360
+ run 282800 size of accepted instlumi 5125 size of rejected 282
+ run 282807 size of accepted instlumi 4352 size of rejected 83
+ run 282814 size of accepted instlumi 18624 size of rejected 310
+ run 282842 size of accepted instlumi 1349 size of rejected 0
+ run 282917 size of accepted instlumi 969 size of rejected 113
+ run 282918 size of accepted instlumi 746 size of rejected 77
+ run 282919 size of accepted instlumi 3313 size of rejected 69
+ run 282922 size of accepted instlumi 1550 size of rejected 67
+ run 282923 size of accepted instlumi 2610 size of rejected 74
+ run 283042 size of accepted instlumi 69 size of rejected 9
+ run 283043 size of accepted instlumi 6971 size of rejected 138
+ run 283049 size of accepted instlumi 169 size of rejected 0
+ run 283050 size of accepted instlumi 3129 size of rejected 225
+ run 283052 size of accepted instlumi 1544 size of rejected 94
+ run 283059 size of accepted instlumi 6138 size of rejected 146
+ run 283270 size of accepted instlumi 23653 size of rejected 457
+ run 283283 size of accepted instlumi 13680 size of rejected 250
+ run 283305 size of accepted instlumi 87 size of rejected 0
+ run 283306 size of accepted instlumi 4379 size of rejected 189
+ run 283307 size of accepted instlumi 6047 size of rejected 174
+ run 283308 size of accepted instlumi 10242 size of rejected 245
+ run 283353 size of accepted instlumi 10994 size of rejected 372
+ run 283358 size of accepted instlumi 11223 size of rejected 124
+ run 283359 size of accepted instlumi 4162 size of rejected 60
+ run 283407 size of accepted instlumi 524 size of rejected 0
+ run 283408 size of accepted instlumi 28358 size of rejected 708
+ run 283416 size of accepted instlumi 1450 size of rejected 72
+ run 283453 size of accepted instlumi 6642 size of rejected 461
+ run 283478 size of accepted instlumi 12513 size of rejected 366
+ run 283548 size of accepted instlumi 1638 size of rejected 62
+ run 283680 size of accepted instlumi 1142 size of rejected 71
+ run 283681 size of accepted instlumi 254 size of rejected 0
+ run 283682 size of accepted instlumi 5051 size of rejected 123
+ run 283685 size of accepted instlumi 1113 size of rejected 311
+ run 283820 size of accepted instlumi 16880 size of rejected 496
+ run 283830 size of accepted instlumi 7174 size of rejected 100
+ run 283834 size of accepted instlumi 641 size of rejected 0
+ run 283835 size of accepted instlumi 761 size of rejected 53
+ run 283865 size of accepted instlumi 15807 size of rejected 386
+ run 283876 size of accepted instlumi 9551 size of rejected 300
+ run 283877 size of accepted instlumi 16049 size of rejected 479
+ run 283884 size of accepted instlumi 5952 size of rejected 261
+ run 283885 size of accepted instlumi 19100 size of rejected 394
+ run 283933 size of accepted instlumi 2107 size of rejected 188
+ run 283934 size of accepted instlumi 16751 size of rejected 302
+ run 283946 size of accepted instlumi 18158 size of rejected 510
+ run 283964 size of accepted instlumi 3779 size of rejected 127
+ run 284006 size of accepted instlumi 3354 size of rejected 397
+ run 284014 size of accepted instlumi 3059 size of rejected 106
+ run 284025 size of accepted instlumi 547 size of rejected 192
+ run 284029 size of accepted instlumi 1654 size of rejected 0
+ run 284035 size of accepted instlumi 5402 size of rejected 75
+ run 284036 size of accepted instlumi 4562 size of rejected 36
+ run 284037 size of accepted instlumi 4077 size of rejected 74
+ run 284038 size of accepted instlumi 615 size of rejected 0
+ run 284039 size of accepted instlumi 327 size of rejected 0
+ run 284040 size of accepted instlumi 333 size of rejected 0
+ run 284041 size of accepted instlumi 404 size of rejected 33
+ run 284042 size of accepted instlumi 1371 size of rejected 0
+ run 284043 size of accepted instlumi 2121 size of rejected 134
+ run 284044 size of accepted instlumi 282 size of rejected 0
+tree entries 12211241
+tree entries 12211241
+ total entries 11613526 accepted 8583089 rejected 3030437
+ total  12211241 accepted after first 12211241 after second 11613526 after third 8583089
