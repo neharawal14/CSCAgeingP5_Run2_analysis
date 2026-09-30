@@ -1,0 +1,12 @@
+executable = run_script_main.sh
+log = job_$(Cluster).log
+output = job_$(Cluster)_$(Process).out
+error = job_$(Cluster)_$(Process).err
++MaxRuntime = 40000
+request_memory=2GB
+#+MaxRuntime = 2000
+#request_memory=500MB
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+# Queue jobs with different arguments
+queue arguments from argument_main.txt
