@@ -6,7 +6,8 @@ import ROOT
 from datetime import datetime
 
 def read_lumi_file_golden(year):
-    input_file_name = f"../../Brilcalc_evaluating_luminosity/testing_prescales/{year}lumi_HLTIsoMu24_byls.csv"
+    #input_file_name = f"../../Brilcalc_evaluating_luminosity/testing_prescales/{year}lumi_HLTIsoMu24_byls.csv"
+    input_file_name = f"../../Brilcalc_evaluating_luminosity/{year}lumi_byls.csv"
     if(year=="2016" or year=="2018"):
         footer_nb=10
     elif(year=="2017"):
@@ -53,11 +54,11 @@ def finding_cumsum_lumi(type):
             nb_footer=14
     
         if(type=="golden"):
-            input_file_name = f"../../Brilcalc_evaluating_luminosity/testing_prescales/{year}lumi_HLTIsoMu24_byls.csv"
+            input_file_name = f"../../Brilcalc_evaluating_luminosity/{year}lumi_byls.csv"
             #input_file_name = f"/afs/cern.ch/work/n/nrawal/Brilcal_new_env/Run2_UTC_lumi_evaluation/testing_prescales/{year}lumi_HLTIsoMu24_byls.csv"
         elif(type=="dcs"):
             #input_file_name = f"/afs/cern.ch/work/n/nrawal/Brilcal_new_env/Run2_UTC_lumi_evaluation/testing_prescales/{year}lumi_HLTIsoMu24_byls_dcsonly.csv"
-            input_file_name = f"../../Brilcalc_evaluating_luminosity/testing_prescales/{year}lumi_HLTIsoMu24_byls_dcsonly.csv"
+            input_file_name = f"../../Brilcalc_evaluating_luminosity/{year}lumi_byls_dcsonly.csv"
         df = pd.read_csv(input_file_name, sep=',',skiprows=1, skipfooter=nb_footer, engine='python')  # required when using skipfooter)
         df['delivered(/ub)'] = pd.to_numeric(df['delivered(/ub)'], errors='coerce')
         df['recorded(/ub)'] = pd.to_numeric(df['recorded(/ub)'], errors='coerce')
